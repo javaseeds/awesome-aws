@@ -222,7 +222,7 @@ Related Repos:
 
 ### Haskell SDK
 
-* [Repo :fire::fire:](https://github.com/brendanhay/amazonka)
+* [Repo :fire::fire::fire:](https://github.com/brendanhay/amazonka)
 * [Docs](http://hackage.haskell.org/packages/#cat:AWS)
 
 Related Repos:
@@ -278,7 +278,7 @@ Related Repos:
 
 Related Repos:
 
-* [aws-sdk-rails :fire::fire:](https://github.com/aws/aws-sdk-rails)
+* [aws-sdk-rails :fire::fire::fire:](https://github.com/aws/aws-sdk-rails)
 * [appoxy/aws :fire::fire:](https://github.com/appoxy/aws)
 * [rightscale/right_aws :fire::fire:](https://github.com/rightscale/right_aws)
 
@@ -423,7 +423,7 @@ AWS Repos:
 * [aws-cdk :fire::fire::fire::fire::fire:](https://github.com/aws/aws-cdk) - Framework for defining cloud infrastructure in code.
 * [aws-cfn-custom-resource-examples](https://github.com/awslabs/aws-cfn-custom-resource-examples) - Custom resource examples.
 * [aws-cfn-resource-bridge](https://github.com/aws/aws-cfn-resource-bridge) - Custom resource framework.
-* [cfn-python-lint :fire::fire::fire::fire:](https://github.com/awslabs/cfn-python-lint) - A tool for linting/validating CloudFormation.
+* [cfn-python-lint :fire::fire::fire::fire::fire:](https://github.com/awslabs/cfn-python-lint) - A tool for linting/validating CloudFormation.
 * [cfncluster-cookbook](https://github.com/awslabs/cfncluster-cookbook) - Sample Cookbook.
 * [cfncluster :fire::fire::fire:](https://github.com/awslabs/cfncluster) - Framework that deploys and maintains HPC clusters.
 
@@ -438,7 +438,7 @@ Community Repos:
 * [envato/stack_master :fire::fire:](https://github.com/envato/stack_master) - A CLI tool to manage CloudFormation stacks.
 * [sparkleformation/sfn](https://github.com/sparkleformation/sfn) - CLI for stack management.
 * [sparkleformation/sparkle_formation :fire::fire:](https://github.com/sparkleformation/sparkle_formation) - Ruby DSL for template creation.
-* [Stelligent/cfn_nag :fire::fire::fire:](https://github.com/stelligent/cfn_nag) - Linting tool for CloudFormation templates
+* [Stelligent/cfn_nag :fire::fire::fire::fire:](https://github.com/stelligent/cfn_nag) - Linting tool for CloudFormation templates
 
 ### CloudSearch
 
@@ -569,7 +569,7 @@ Community Repos:
 * [channl/dynamodb-lambda-autoscale :fire::fire:](https://github.com/channl/dynamodb-lambda-autoscale) - Autoscale DynamoDB provisioned capacity using Lambda.
 * [lyft/confidant :fire::fire::fire::fire:](https://github.com/lyft/confidant) - Stores secrets, encrypted at rest.
 * [sebdah/dynamic-dynamodb :fire::fire::fire:](https://github.com/sebdah/dynamic-dynamodb) - Provides auto-scaling.
-* [sensedeep/dynamodb-onetable :fire::fire:](https://github.com/sensedeep/dynamodb-onetable) - DynamoDB library for single table designs using NodeJS.
+* [sensedeep/dynamodb-onetable :fire::fire::fire:](https://github.com/sensedeep/dynamodb-onetable) - DynamoDB library for single table designs using NodeJS.
 
 ### Elastic Beanstalk
 
@@ -839,7 +839,7 @@ Community Repos:
 * [mardix/flask-cloudy :fire::fire:](https://github.com/mardix/flask-cloudy) - Flask extension.
 * [MathieuLoutre/grunt-aws-s3 :fire::fire:](https://github.com/MathieuLoutre/grunt-aws-s3) - Grunt plugin.
 * [mickael-kerjean/filestash :fire::fire::fire::fire::fire:](https://github.com/mickael-kerjean/filestash) - A modern web client for S3.
-* [minio/mc :fire::fire::fire::fire:](https://github.com/minio/mc) -  Minio Client for filesystem and cloud storage.
+* [minio/mc :fire::fire::fire::fire::fire:](https://github.com/minio/mc) -  Minio Client for filesystem and cloud storage.
 * [minio/minio :fire::fire::fire::fire::fire:](https://github.com/minio/minio) - Object storage server compatible with S3.
 * [mumrah/s3-multipart :fire:](https://github.com/mumrah/s3-multipart) - Parallel upload/download to S3 via Python.
 * [ncw/rclone :fire::fire::fire::fire::fire:](https://github.com/ncw/rclone) - Rsync for various cloud storage providers such as S3.
